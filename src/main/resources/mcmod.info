@@ -1,0 +1,16 @@
+[
+{
+  "modid": "particlecontrol",
+  "name": "ParticleControl",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SlackinJack#0001"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
